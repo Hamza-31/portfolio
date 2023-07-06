@@ -2,7 +2,7 @@
 import Image from 'next/image'
 import React from 'react'
 import chaarizin from '../public/chaarizin-blog.jpg'
-import colizzy from '../public/colizzy.jpg'
+import colizzy from '../public/_colizzy.jpg'
 import pokemon from '../public/pokemon.jpg'
 import Link from 'next/link'
 
