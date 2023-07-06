@@ -1,0 +1,64 @@
+[
+	{
+		"id": 1,
+		"date": "Janvier 2023 - En cours",
+		"title": "Développeur Frontend ReactJS",
+		"description": "Conception de l'architecture et la modélisation des donnés avec des CMS headless comme Strapi/Directus&&Développement de  l'interface utilisateur d'une application web avec NextJS&&Mise en place de base de données relationnels sur le cloud Rds de AWS à partir de Workbench Mysql&&Implémentation frontend et backend du moteur de recherche Meilisearch et le déploiement sur une instance EC2 de AWS&&Hébergement des fichiers sur S3 Storage de AWS&&Déploiement des applications NodeJS sur Heroku",
+		"stacks": [
+			"React",
+			"NextJS",
+			"Typscript",
+			"AWS",
+			"Cypress",
+			"TailwindCSS",
+			"SrapiCMS",
+			"DirectusCMS",
+			"Meilisearch",
+			"Heroku"
+		]
+	},
+	{
+		"id": 2,
+		"date": "Juillet 2022 - Novembre 2022",
+		"title": "Stage Développeur Frontend ReactJS",
+		"description": "Réalisation de la partie front-end de l'interface utilisateur web d'une application de colis-voiturage permettant la mise en relation entre particulier&&Amélioration des performances de l'API REST (ExpressJS)",
+		"stacks": [
+			"React",
+			"NextJS",
+			"NodeJS",
+			"API REST",
+			"Redux Toolkit",
+			"Material UI",
+			"Typescript"
+		]
+	},
+	{
+		"id": 3,
+		"date": "Mai 2020 - Septembre 2021",
+		"title": "Intégrateur web / Consultant SEO",
+		"description": "Intervention dans des missions de création des sites web Wordpress et Shopify&&Amélioration du référencement naturel des sites web",
+		"stacks": [
+			"HTML/CSS",
+			"Wordpress",
+			"Elementor",
+			"Yoast SEO",
+			"Semrush",
+			"Photoshop",
+			"Illustrator",
+			"InDesign"
+		]
+	},
+	{
+		"id": 4,
+		"date": "Novembre 2014 - Aout 2019",
+		"title": "Technicien de Maintenance",
+		"description": "Conception et dimensionnement d'une gamme de lampadaire solaire urbain&&Dimensionnement des installations photovoltaïques&&L'installation et la maintenance des systèmes de Pompage Irrigation Photovoltaïque&&L’installation des systèmes PV pour les sites isolés et hybrides&&Mise en place de la sécurité des installations photovoltaïques",
+		"stacks": [
+			"Autocad",
+			"Solidworks",
+			"PvSyst",
+			"Dialux",
+			"Casanova"
+		]
+	}
+]

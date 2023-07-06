@@ -2,26 +2,56 @@
 @tailwind components;
 @tailwind utilities;
 
+* {
+	box-sizing: border-box;
+	scrollbar-width: thin;
+	scrollbar-color: #111827 #F2ECF4;
+}
+
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+	width: 12px;
+}
+
+*::-webkit-scrollbar-track {
+	background: #F2ECF4;
+	border-radius: 5px;
+}
+
+*::-webkit-scrollbar-thumb {
+	background-color: #111827;
+	border-radius: 14px;
+	border: 2px solid #F2ECF4;
+}
+
 :root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+	/* Your default theme */
+	--background: #F2ECF4;
+	--foreground: #111827;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
+[data-theme='dark'] {
+	--background: #111827;
+	--foreground: #F2ECF4;
 }
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+::selection {
+	background: #5eead4;
+}
+
+#modal {
+	background-color: rgb(17, 24, 39, 0.9);
+	position: fixed;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+	z-index: 60;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#modal:empty {
+	display: none;
 }
