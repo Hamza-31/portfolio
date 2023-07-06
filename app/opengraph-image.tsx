@@ -4,7 +4,7 @@ import { ImageResponse } from 'next/server'
 export const runtime = 'edge'
 
 // Image metadata
-export const alt = 'Portfolio Développeur Frntend'
+export const alt = 'Portfolio Développeur Frontend'
 export const size = {
 	width: 1200,
 	height: 630,
@@ -28,7 +28,7 @@ export default async function Image() {
 					justifyContent: 'center',
 				}}
 			>
-				Portfolio Développeur Frntend
+				Portfolio Développeur Frontend
 			</div>
 		),
 		// ImageResponse options
