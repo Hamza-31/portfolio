@@ -13,7 +13,8 @@ const WebsiteWrapper = ({
 	return (
 		<html lang="en" className='relative'>
 			<Head>
-				<meta property="og:image" content='../public/a_website.jpg' />
+				<meta property="og:image" content='https://chaarizin-api-bucket.s3.eu-west-3.amazonaws.com/upload/chaarizin-api-bucket/a_website.jpg' />
+				<meta property="og:image:secure" content='https://chaarizin-api-bucket.s3.eu-west-3.amazonaws.com/upload/chaarizin-api-bucket/a_website.jpg' />
 			</Head>
 			<body
 				onMouseMove={(e) => {
