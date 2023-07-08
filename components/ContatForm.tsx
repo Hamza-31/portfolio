@@ -44,7 +44,6 @@ const ContactForm = () => {
 				}
 			})
 			const data = await res.json()
-			console.log()
 			setContactResponse({ message: data.message, error: "" });
 		} catch (error) {
 			console.log("Error sending email from client : ", error)
@@ -55,7 +54,7 @@ const ContactForm = () => {
 		<>
 			{contactResponse.message && (
 				<div className="bg-slate-200 text-slate-900 px-5 py-5 rounded-lg flex justify-center items-center">
-					<p>Your message has been successfully sent !</p>
+					<p>Votre message a été envoyé avec succès !</p>
 				</div>
 			)}
 			{contactResponse.error && (
