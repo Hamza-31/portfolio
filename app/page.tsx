@@ -40,7 +40,7 @@ export default function Home() {
 					</Link>
 				</div>
 				<ul id="projects" className="group/list">
-					<h3 className="text-3xl py-7 text-teal-300">Projets</h3>
+					<h3 className="text-3xl pt-7 text-teal-300">Projets</h3>
 					{projects.map(project => (
 
 						<SingleProject key={project.id} project={project} />
