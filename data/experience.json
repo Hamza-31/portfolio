@@ -7,12 +7,13 @@
 		"stacks": [
 			"React",
 			"NextJS",
-			"Typscript",
+			"Typescript",
 			"AWS",
 			"Cypress",
 			"TailwindCSS",
 			"SrapiCMS",
 			"DirectusCMS",
+			"PostgreSQL",
 			"Meilisearch",
 			"Heroku"
 		]
@@ -21,7 +22,7 @@
 		"id": 2,
 		"date": "Juillet 2022 - Novembre 2022",
 		"title": "Stage Développeur Frontend ReactJS",
-		"description": "Réalisation de la partie front-end de l'interface utilisateur web d'une application de colis-voiturage permettant la mise en relation entre particulier&&Amélioration des performances de l'API REST (ExpressJS)",
+		"description": "Développement d'interfaces utilisateur réactives et responsive avec NextJS&&Intégration de maquettes de conception&&Intégration d'API ExpressJS et de services backendOptimisation des performances de l'API",
 		"stacks": [
 			"React",
 			"NextJS",
@@ -36,7 +37,7 @@
 		"id": 3,
 		"date": "Mai 2020 - Septembre 2021",
 		"title": "Intégrateur web / Consultant SEO",
-		"description": "Intervention dans des missions de création des sites web Wordpress et Shopify&&Amélioration du référencement naturel des sites web",
+		"description": "Création de site e-commerce Wordpress/Shopify&&Amélioration de l'expérience utilisateur&&Optimisation du référencement (SEO) avec YoastSEO&&Intégration de passerelles de paiement (Stripe/Mollie)&&Migration de sites",
 		"stacks": [
 			"HTML/CSS",
 			"Wordpress",
