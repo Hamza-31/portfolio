@@ -3,12 +3,12 @@
 		"id": 1,
 		"date": "Janvier 2023 - En cours",
 		"title": "Développeur Frontend ReactJS",
-		"description": "Conception de l'architecture et la modélisation des donnés avec des CMS headless comme Strapi/Directus&&Développement de  l'interface utilisateur d'une application web avec NextJS&&Mise en place de base de données relationnels sur le cloud Rds de AWS à partir de Workbench Mysql&&Implémentation frontend et backend du moteur de recherche Meilisearch et le déploiement sur une instance EC2 de AWS&&Hébergement des fichiers sur S3 Storage de AWS&&Déploiement des applications NodeJS sur Heroku",
+		"description": "Conception de l'architecture et modélisation des données avec des CMS headless tels que Strapi/Directus&&Développement de l'interface utilisateur d'une application web avec NextJS&&Mise en place d'une base de données relationnelle sur le cloud RDS d'AWS à partir de Workbench MySQL&&Implémentation frontend et backend du moteur de recherche Meilisearch, suivi du déploiement sur une instance EC2 d'AWS&&Hébergement des fichiers sur S3 Storage d'AWS&&Déploiement des applications NodeJS sur Heroku",
 		"stacks": [
 			"React",
 			"NextJS",
 			"Typescript",
-			"AWS",
+			"AWS (EC2,S3,RDS)",
 			"Cypress",
 			"TailwindCSS",
 			"SrapiCMS",
@@ -22,22 +22,23 @@
 		"id": 2,
 		"date": "Juillet 2022 - Novembre 2022",
 		"title": "Stage Développeur Frontend ReactJS",
-		"description": "Développement d'interfaces utilisateur réactives et responsive avec NextJS&&Intégration de maquettes de conception&&Intégration d'API ExpressJS et de services backendOptimisation des performances de l'API",
+		"description": "Développement d'interfaces utilisateur réactives et responsives avec NextJS&&Intégration de maquettes de conception&&Intégration d'API ExpressJS et de services backend&&Optimisation des performances de l'API",
 		"stacks": [
 			"React",
 			"NextJS",
+			"Typescript",
+			"Figma",
 			"NodeJS",
 			"API REST",
 			"Redux Toolkit",
-			"Material UI",
-			"Typescript"
+			"Material UI"
 		]
 	},
 	{
 		"id": 3,
 		"date": "Mai 2020 - Septembre 2021",
 		"title": "Intégrateur web / Consultant SEO",
-		"description": "Création de site e-commerce Wordpress/Shopify&&Amélioration de l'expérience utilisateur&&Optimisation du référencement (SEO) avec YoastSEO&&Intégration de passerelles de paiement (Stripe/Mollie)&&Migration de sites",
+		"description": "Création de sites e-commerce sur WordPress/Shopify&&Amélioration de l'expérience utilisateur&&Optimisation du référencement (SEO) avec Yoast SEO&&Intégration de passerelles de paiement (Stripe/Mollie)&&Migration de sites",
 		"stacks": [
 			"HTML/CSS",
 			"Wordpress",
@@ -52,8 +53,8 @@
 	{
 		"id": 4,
 		"date": "Novembre 2014 - Aout 2019",
-		"title": "Technicien de Maintenance",
-		"description": "Conception et dimensionnement d'une gamme de lampadaire solaire urbain&&Dimensionnement des installations photovoltaïques&&L'installation et la maintenance des systèmes de Pompage Irrigation Photovoltaïque&&L’installation des systèmes PV pour les sites isolés et hybrides&&Mise en place de la sécurité des installations photovoltaïques",
+		"title": "Technicien de Maintenance en énergies renouvelables",
+		"description": "Conception et dimensionnement d'une gamme de lampadaires solaires urbains&&Dimensionnement des installations photovoltaïques&&Installation et maintenance des systèmes de pompage irrigation photovoltaïque&&Installation des systèmes PV pour les sites isolés et hybrides&&Mise en place de la sécurité des installations photovoltaïques",
 		"stacks": [
 			"Autocad",
 			"Solidworks",
