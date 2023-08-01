@@ -9,7 +9,7 @@ import ContatForm from "@/components/ContatForm";
 export default function Home() {
 	return (
 		<>
-			<section id="about" className="col-span-3 w-9/12 ml-10">
+			<section id="about" className="col-span-3 max-[1145px]:px-4 min-[1145px]:w-9/12 min-[1145px]:ml-10">
 				<h3 className="text-3xl py-7 text-teal-300">À propos</h3>
 				<article className="space-y-6">
 					{about.content.split('&&').map(text => (<p key={text.substring(0, 5)}>{text}</p>))}
