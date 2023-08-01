@@ -16,8 +16,8 @@ const SinglePost = ({ post }: any) => {
 						</div>
 					</h3>
 					<ul className="mt-2 text-sm leading-normal list-disc prose:marker:test-teal-300">
-						{post.description.split('&&').map((desc: string | null | undefined) => (
-							<li key={desc?.substring(0, 5)}>{desc}.</li>
+						{post.description.split('&&').map((desc: string | null | undefined, index: number) => (
+							<li key={desc?.substring(0, 5).concat(index.toString())}>{desc}.</li>
 						))}</ul>
 					<ul className="mt-2 flex flex-wrap">
 						{post.stacks.map((stack: string | null | undefined) => (
