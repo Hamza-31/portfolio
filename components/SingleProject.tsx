@@ -19,7 +19,7 @@ const SingleProject = ({ project }: any) => {
 				</div>
 				<div className="z-10 sm:order-2 sm:col-span-6">
 					<h3>
-						<Link className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href={project.href} target="_blank" rel="noreferrer" aria-label="Build a Spotify Connected App">
+						<Link className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href={project.href} target="_blank" rel="noreferrer" aria-label={project.title}>
 							<span className="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block">
 							</span>
 							<span>{project.title}
