@@ -85,12 +85,12 @@ const ContactForm = () => {
 							onSubmit={(e) => {
 								e.preventDefault()
 								e.stopPropagation()
-								handleSubmit()
+								// handleSubmit()
 							}}
 							className="bg-slate-200 text-slate-900 px-5 pb-5 pt-3 rounded-lg space-y-3 z-100 "
 						>
-							<h4 className="py-6 text-center"><em>Contactez-moi au </em><br /> <Link className='underline' href="mailto:hamza.labzioui@gmail.com">hamza.labzioui@gmail.com</Link> <br /> <em>ou</em> <br /><Link className='underline' href="tel:+33783431340">07.83.43.13.40</Link></h4>
-							<p className="pb-6 text-center"><em>ou laissez un message</em></p>
+							<h4 className="py-6 text-center"><em>Contactez-moi au </em><br /><br />  <Link className='underline' href="mailto:hamza.labzioui@gmail.com">hamza.labzioui@gmail.com</Link> <br /><br /> <em>ou</em> <br /><br /><Link className='underline bg-slate-900 rounded-md text-slate-200 p-2 ' href="tel:+33783431340">07.83.43.13.40</Link></h4>
+							{/* <p className="pb-6 text-center"><em>ou laissez un message</em></p>
 							<div className='grid grid-cols-2 max-[450px]:grid-cols-1 gap-2'>
 
 								<CustomInput
@@ -145,7 +145,7 @@ const ContactForm = () => {
 							</div>
 							<span className="text-red-600">
 								{errors.message && touched.message && errors.message}
-							</span>
+							</span> */}
 						</form>
 					)}
 				</Formik>
