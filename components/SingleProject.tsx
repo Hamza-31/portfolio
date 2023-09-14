@@ -4,6 +4,7 @@ import React from 'react'
 import chaarizin from '../public/chaarizin-blog.jpg'
 import colizzy from '../public/_colizzy.jpg'
 import pokemon from '../public/pokemon.jpg'
+import simulator from '../public/simulator.jpg'
 import Link from 'next/link'
 
 const SingleProject = ({ project }: any) => {
@@ -11,6 +12,7 @@ const SingleProject = ({ project }: any) => {
 		if (src === "chaarizin") return chaarizin
 		if (src === "colizzy") return colizzy
 		if (src === "pokemon") return pokemon
+		if (src === "simulator") return simulator
 	}
 	return (
 		<li className="my-12">

@@ -3,7 +3,7 @@
 		"id": 1,
 		"date": "Janvier 2023 - En cours",
 		"title": "Développeur Frontend ReactJS",
-		"description": "Conception de l'architecture et modélisation des données avec des CMS headless tels que Strapi/Directus&&Développement de l'interface utilisateur d'une application web avec NextJS&&Mise en place d'une base de données relationnelle sur le cloud RDS d'AWS à partir de Workbench MySQL&&Implémentation frontend et backend du moteur de recherche Meilisearch, suivi du déploiement sur une instance EC2 d'AWS&&Hébergement des fichiers sur S3 Storage d'AWS&&Déploiement des applications NodeJS sur Heroku",
+		"description": "Développement d’un simulateur permettant aux utilisateurs de trader différentes cryptomonnaies (ETH Trading Simulator)&&Conception de l'architecture et modélisation des données avec des CMS headless tels que Strapi/Directus&&Développement de l'interface utilisateur d'une application web avec NextJS&&Mise en place d'une base de données relationnelle sur le cloud RDS d'AWS à partir de Workbench MySQL&&Implémentation frontend et backend du moteur de recherche Meilisearch, suivi du déploiement sur une instance EC2 d'AWS&&Hébergement des fichiers sur S3 Storage d'AWS&&Déploiement des applications NodeJS sur Heroku",
 		"stacks": [
 			"React",
 			"NextJS",
