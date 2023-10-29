@@ -7,7 +7,7 @@ const Navbar = () => {
 
 		<section className="col-span-2 px-4 min-[1145px]:fixed min-[1145px]:left-34 min-[1145px]:w-[500px] min-[1145px]:w-9/12 min-[1145px]:ml-10">
 			<h2 className="mb-4 text-4xl font-bold tracking-tight leading-none md:text-5xl xl:text-6xl text-white">Hamza Labzioui</h2>
-			<h1 className="mb-4 text-xl tracking-tight leading-none md:text-2xl xl:text-3xl text-white">Développeur Frontend</h1>
+			<h1 className="mb-4 text-xl tracking-tight leading-none md:text-2xl xl:text-3xl text-white">Développeur Fullstack</h1>
 			<p className="min-[1145px]:max-w-[400px] font-light text-slate-500 md:text-lg lg:text-xl text-slate-400">Passionné par le développement web, j&apos;aime expérimenter, découvrir et apprendre des nouvelles technologies.</p>
 			<div className='grid max-[600px]:grid-cols-1 min-[1145px]:grid-cols-1 grid-cols-2 '>
 

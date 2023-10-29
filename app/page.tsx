@@ -21,12 +21,12 @@ export default function Home() {
 						<SinglePost key={post.id} post={post} />
 					))}
 				</ol>
-				<div className="my-24">
-					<h3 className="text-3xl py-7 text-teal-300">Curriculum Vitae</h3>
+				<div className="my-18">
+					<h3 className="text-3xl py-5 text-teal-300">Curriculum Vitae</h3>
 					<Link
 						target="_blank"
 						className="inline-flex items-center font-medium text-xl leading-tight text-slate-200 font-semibold group"
-						aria-label="View Full Résumé" href="/files/Hamza_Labzioui__DEV_FRONT.pdf">
+						aria-label="View Full Résumé" href="/files/Hamza_Labzioui_CV_Fullstack.pdf">
 						<span>
 							<span className="border-b border-transparent pb-px transition group-hover:border-teal-300 motion-reduce:transition-none">
 								Ouvrir le CV {" "}
@@ -39,7 +39,7 @@ export default function Home() {
 						</span>
 					</Link>
 				</div>
-				<ul id="projects" className="group/list">
+				<ul id="projects" className="group/list pt-7">
 					<h3 className="text-3xl pt-7 text-teal-300">Projets</h3>
 					{projects.map(project => (
 

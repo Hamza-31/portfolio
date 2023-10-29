@@ -1,17 +1,21 @@
 [
 	{
 		"id": 1,
-		"title": "Développement d'un Simulateur de Cryptomonnnaies (ETH Trading Simulator)",
-		"description": "Grace à ReactJS, le simulateur offre une expérience utilisateur fluide et dynamique, permettant aux utilisateurs de trader diverses cryptomonnaies, de profiter du trading avec marge, de s'engager dans le trading de contrat à terme et de participer au trading social.",
-		"src": "simulator",
-		"href": "https://github.com/simulatordemo/ETH-Trading-Simulator",
+		"title": "Développement Blog Ecommerce NextJS 13",
+		"description": "Je suis un fervent utilisateur de Next.js pour les sites Web de commerce électronique, en raison de sa capacité à offrir des performances optimales et des fonctionnalités avancées pour les pages d'affichage de produits et bien plus encore. Je suis prêt à mettre à profit cette expertise pour créer un site portfolio exceptionnel et répondant aux besoins de votre projet.",
+		"src": "chaarizin",
+		"href": "http://www.chaarizin.ma",
 		"stacks": [
 			"React",
-			"Typescript",
-			"NodeJS",
-			"Web3",
+			"NextJS",
+			"Typscript",
+			"AWS",
+			"Cypress",
 			"TailwindCSS",
-			"Websocket"
+			"SrapiCMS",
+			"DirectusCMS",
+			"Meilisearch",
+			"Heroku"
 		]
 	},
 	{
@@ -32,25 +36,6 @@
 	},
 	{
 		"id": 3,
-		"title": "Développement Blog Ecommerce NextJS 13",
-		"description": "Je suis un fervent utilisateur de Next.js pour les sites Web de commerce électronique, en raison de sa capacité à offrir des performances optimales et des fonctionnalités avancées pour les pages d'affichage de produits et bien plus encore. Je suis prêt à mettre à profit cette expertise pour créer un site portfolio exceptionnel et répondant aux besoins de votre projet.",
-		"src": "chaarizin",
-		"href": "http://www.chaarizin.ma",
-		"stacks": [
-			"React",
-			"NextJS",
-			"Typscript",
-			"AWS",
-			"Cypress",
-			"TailwindCSS",
-			"SrapiCMS",
-			"DirectusCMS",
-			"Meilisearch",
-			"Heroku"
-		]
-	},
-	{
-		"id": 4,
 		"title": "Création d'une application météo PWA à l'aide d'Angular 16 Service Worker",
 		"description": "Avec des applications PWA, nous pouvons accéder aux applications web en utilisant différents types d'appareils, tels que les ordinateurs de bureau, les mobiles, et sur différents types de réseaux, tels que le haut débit, le Wifi et le cellulaire.",
 		"src": "pwa",
@@ -63,7 +48,7 @@
 		]
 	},
 	{
-		"id": 5,
+		"id": 4,
 		"title": "Ma première application React avec create-react-app",
 		"description": "Je suis enthousiasmé par la création d'une application React.js en utilisant une API RESTful. Je suis prêt à utiliser mes compétences pour concevoir une interface utilisateur exceptionnelle, mettre en œuvre les fonctionnalités CRUD de manière efficace et garantir une expérience utilisateur satisfaisante. Je suis impatient de contribuer à la réalisation de votre projet de site portfolio.",
 		"src": "pokemon",

@@ -2,18 +2,33 @@
 	{
 		"id": 1,
 		"date": "Janvier 2023 - En cours",
-		"title": "Développeur Frontend ReactJS",
-		"description": "Développement d’un simulateur permettant aux utilisateurs de trader différentes cryptomonnaies (ETH Trading Simulator)&&Conception de l'architecture et modélisation des données avec des CMS headless tels que Strapi/Directus&&Développement de l'interface utilisateur d'une application web avec NextJS&&Mise en place d'une base de données relationnelle sur le cloud RDS d'AWS à partir de Workbench MySQL&&Implémentation frontend et backend du moteur de recherche Meilisearch, suivi du déploiement sur une instance EC2 d'AWS&&Hébergement des fichiers sur S3 Storage d'AWS&&Déploiement des applications NodeJS sur Heroku",
+		"title": "Développeur Fullstack",
+		"description": [
+			"Conception l'architecture et développement des fonctionnalités web",
+			"Développement des interfaces utilisateur web avec Angular, React, NextJS",
+			"Mise en place d'une base de données relationnelle sur le cloud RDS d'AWS depuis Workbench MySQL",
+			"Implémentation du moteur de recherche Meilisearch, déployé sur une instance EC2 d'AWS",
+			"Développement de la fonction de chargement de fichiers dans un compartiment Amazon S3",
+			"Création d'un module de suivi en temps réel d'actualités pour une application de trading de cryptomonnaies",
+			"Création d'un site de commerce électronique pour une entreprise de vente au détail, y compris des pages de produits, un panier d'achat, un processus de paiement sécurisé et des fonctionnalités de recherche avancée",
+			"Déploiement des applications NodeJS sur Heroku"
+		],
 		"stacks": [
+			"Angular",
 			"React",
-			"NextJS",
 			"Typescript",
+			"Java",
+			"SpringBoot",
+			"NextJS",
+			"RxJS",
+			"Redux",
+			"PostgreSQL",
 			"AWS (EC2,S3,RDS)",
 			"Cypress",
+			"WebSocket",
 			"TailwindCSS",
 			"SrapiCMS",
 			"DirectusCMS",
-			"PostgreSQL",
 			"Meilisearch",
 			"Heroku"
 		]
@@ -21,8 +36,15 @@
 	{
 		"id": 2,
 		"date": "Juillet 2022 - Novembre 2022",
-		"title": "Stage Développeur Frontend ReactJS",
-		"description": "Développement d'interfaces utilisateur réactives et responsives avec NextJS&&Intégration de maquettes de conception&&Intégration d'API ExpressJS et de services backend&&Optimisation des performances de l'API",
+		"title": "Stagiaire Développeur Fulstack",
+		"description": [
+			"Analyse du cahier des charges",
+			"Maquettage",
+			"Intégration de maquettes de conception",
+			"Intégration d'API ExpressJS et de services backend",
+			"Optimisation des performances de l'API",
+			"Réalisation des tests fonctionnels"
+		],
 		"stacks": [
 			"React",
 			"NextJS",
@@ -36,9 +58,52 @@
 	},
 	{
 		"id": 3,
+		"date": "Novembre 2021 - Novembre 2022",
+		"title": "Concepteur Développeur d'Applications",
+		"description": [
+			"Maquettage d'une application",
+			"Développement d'une interface utilisateur de type desktop",
+			"Développement des composants d'accès aux données",
+			"Développement de la partie front-end d'une interface utilisateur web",
+			"Développement de la partie back-end d'une interface utilisateur web",
+			"Conception d'une base de données",
+			"Mise en place d'une base de données relationnelles",
+			"Développement des composants dans le langage d'une base de données",
+			"Collaboration à la gestion d'un projet informatique et à l'organisation de l'environnement de développement",
+			"Conception d'une application",
+			"Développement des composants métier",
+			"Construction d'une application organisée en couches",
+			"Développement d'une application mobile",
+			"Préparation et exécution des plans de tests d'une application",
+			"Préparation et exécution du déploiement d'une application"
+		],
+		"stacks": [
+			"Java",
+			"PHP",
+			"Javascript",
+			"HTML/CSS",
+			"Symfony",
+			"React.js",
+			"Méthodes agiles",
+			"Développement Android",
+			"API REST",
+			"API REST",
+			"MySQL"
+		]
+	},
+	{
+		"id": 4,
 		"date": "Mai 2020 - Septembre 2021",
 		"title": "Intégrateur web / Consultant SEO",
-		"description": "Création de sites e-commerce sur WordPress/Shopify&&Amélioration de l'expérience utilisateur&&Optimisation du référencement (SEO) avec Yoast SEO&&Intégration de passerelles de paiement (Stripe/Mollie)&&Migration de sites",
+		"description": [
+			"Création de sites e-commerce",
+			"Amélioration de l'expérience utilisateur",
+			"Optimisation du référencement (SEO)",
+			"Intégration de fonctionnalités avancées",
+			"Intégration de passerelles de paiement",
+			"Migration de sites",
+			"Formation et support"
+		],
 		"stacks": [
 			"HTML/CSS",
 			"Wordpress",
@@ -51,10 +116,16 @@
 		]
 	},
 	{
-		"id": 4,
+		"id": 5,
 		"date": "Novembre 2014 - Aout 2019",
 		"title": "Technicien de Maintenance en énergies renouvelables",
-		"description": "Conception et dimensionnement d'une gamme de lampadaires solaires urbains&&Dimensionnement des installations photovoltaïques&&Installation et maintenance des systèmes de pompage irrigation photovoltaïque&&Installation des systèmes PV pour les sites isolés et hybrides&&Mise en place de la sécurité des installations photovoltaïques",
+		"description": [
+			"Conception et dimensionnement des lampadaires solaires urbains",
+			"Dimensionnement des installations photovoltaïques",
+			"Installation et entretien des systèmes de pompage irrigation photovoltaïque",
+			"Installation des systèmes PV pour sites isolés et hybrides",
+			"Mise en place de la sécurité des installations photovoltaïques"
+		],
 		"stacks": [
 			"Autocad",
 			"Solidworks",

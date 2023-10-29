@@ -16,12 +16,12 @@ const SinglePost = ({ post }: any) => {
 						</div>
 					</h3>
 					<ul className="mt-2 text-sm leading-normal list-disc prose:marker:test-teal-300">
-						{post.description.split('&&').map((desc: string | null | undefined, index: number) => (
-							<li key={desc?.substring(0, 5).concat(index.toString())}>{desc}.</li>
+						{post.description.map((desc: string | null | undefined, index: number) => (
+							<li key={index + 1000}>{desc}.</li>
 						))}</ul>
 					<ul className="mt-2 flex flex-wrap">
-						{post.stacks.map((stack: string | null | undefined) => (
-							<li key={stack} className="mr-1.5 mt-2">
+						{post.stacks.map((stack: string | null | undefined, index: number) => (
+							<li key={stack?.concat(index.toString())} className="mr-1.5 mt-2">
 								<div className="lex items-center rounded-full group/link px-3 py-1 text-xs font-medium leading-5 bg-teal-400/10 text-teal-300">{stack}</div>
 							</li>)
 						)}
