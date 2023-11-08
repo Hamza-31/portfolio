@@ -6,7 +6,7 @@ const Navbar = () => {
 	return (
 
 		<section className="col-span-2 px-4 min-[1145px]:fixed min-[1145px]:left-34 min-[1145px]:w-[500px] min-[1145px]:w-9/12 min-[1145px]:ml-10">
-			<h2 className="mb-4 min-[1145px]:pt-20 text-4xl font-bold tracking-tight leading-none md:text-5xl xl:text-6xl text-white">Hamza Labzioui</h2>
+			<h2 className="mb-4 min-[1145px]:mt-10 text-4xl font-bold tracking-tight leading-none md:text-5xl xl:text-6xl text-white">Hamza Labzioui</h2>
 			<h1 className="mb-4 text-xl tracking-tight leading-none md:text-2xl xl:text-3xl text-white">Développeur Fullstack</h1>
 			<p className="min-[1145px]:max-w-[400px] font-light text-slate-500 md:text-lg lg:text-xl text-slate-400">Passionné par le développement web, j&apos;aime expérimenter, découvrir et apprendre des nouvelles technologies.</p>
 			<div className='grid max-[600px]:grid-cols-1 min-[1145px]:grid-cols-1 grid-cols-2 '>
@@ -16,7 +16,7 @@ const Navbar = () => {
 
 					<NavLink isHeader={false} />
 				</nav>
-				<ul className="ml-1 flex justify-end max-[600px]:justify-start min-[1145px]:justify-start  py-[80px]" aria-label="Social media">
+				<ul className="ml-1 flex justify-end max-[600px]:justify-start min-[1145px]:justify-start  py-[55px]" aria-label="Social media">
 					<li className="mr-5 text-xs">
 						<Link className="block hover:text-slate-200" href="https://github.com/Hamza-31" target="_blank" rel="noreferrer">
 							<span className="sr-only">GitHub</span>
