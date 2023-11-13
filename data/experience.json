@@ -8,10 +8,10 @@
 			"Création des API RESTful avec Spring Boot pour gérer les données et les fonctionnalités côté serveur",
 			"Développement des composants Angular et React pour l'interface utilisateur",
 			"Mise en place des gestionnaires d'état avec des bibliothèques telles que Redux pour React ou NgRx pour Angular",
-			"Mise en place des fonctionnalités de chat et des module de suivi d'actualités en temps réel en utilisant des API telles que WebSocket",
+			"Mise en place des fonctionnalités de chat et de module de suivi d'actualités en temps réel en utilisant des API telles que WebSocket",
 			"Mise en place des tests unitaires et des tests d'intégration",
 			"Configuration des ressources cloud sur AWS, telles que des instances EC2, des bases de données RDS ainsi que des services de stockage S3",
-			"Utilisation de AWS Elastic Beanstalk ou AWS ECS pour le déploiement et la gestions des conteneurs Docker dans un environnement cloud",
+			"Utilisation de AWS Elastic Beanstalk ou AWS ECS pour le déploiement et la gestion des conteneurs Docker dans un environnement cloud",
 			"Automatisation du processus de création et de mise en ligne des images de conteneur Docker dans le flux de développement"
 		],
 		"stacks": [
