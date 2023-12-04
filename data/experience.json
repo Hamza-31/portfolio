@@ -2,7 +2,7 @@
 	{
 		"id": 1,
 		"date": "Janvier 2023 - En cours",
-		"title": "Développeur Fullstack",
+		"title": "Développeur Web",
 		"description": [
 			"Conception de l'architecture de l'application, y compris la base de données, les services back-end et les composants front-end",
 			"Création des API RESTful avec Spring Boot pour gérer les données et les fonctionnalités côté serveur",
@@ -37,7 +37,7 @@
 	{
 		"id": 2,
 		"date": "Juillet 2022 - Novembre 2022",
-		"title": "Stagiaire Développeur Fulstack",
+		"title": "Stagiaire Développeur Web",
 		"description": [
 			"Analyse du cahier des charges",
 			"Maquettage",

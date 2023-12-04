@@ -1,15 +1,11 @@
-import CustomThemeProvider from '@/lib/CustomThemeProvider'
 import './globals.css'
-import Header from '@/components/Header'
 import Navbar from '@/components/Navbar'
-import { useState } from 'react'
-import MovingDot from '@/components/MovingDot'
 import WebsiteWrapper from '@/lib/WebsiteWrapper'
 
 export const metadata = {
 	metadataBase: new URL('https://www.hamza-labzioui.com'),
-	title: 'Hamza Labzioui - Développeur Fullstack',
-	description: 'Portfolio de Hamza Labzioui. Développeur Fullstack à Toulouse, France. Java, SprinBoot, Hibernate, React, Angular, TailwindCSS, CI/CD, AWS. Contact: hamza.labzioui@gmail.com.',
+	title: 'Hamza Labzioui - Développeur Web',
+	description: 'Portfolio de Hamza Labzioui. Développeur web à Toulouse, France. Java, SprinBoot, Hibernate, React, Angular, TailwindCSS, CI/CD, AWS. Contact: hamza.labzioui@gmail.com.',
 }
 
 export default function RootLayout({
