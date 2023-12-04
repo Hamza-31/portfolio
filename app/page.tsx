@@ -26,7 +26,7 @@ export default function Home() {
 					<Link
 						target="_blank"
 						className="inline-flex items-center font-medium text-xl leading-tight text-slate-200 font-semibold group"
-						aria-label="View Full Résumé" href="/files/Hamza_Labzioui_CV_Fullstack.pdf">
+						aria-label="View Full Résumé" href="/files/Hamza_Labzioui_WebDev.pdf">
 						<span>
 							<span className="border-b border-transparent pb-px transition group-hover:border-teal-300 motion-reduce:transition-none">
 								Ouvrir le CV {" "}
