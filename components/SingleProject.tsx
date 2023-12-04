@@ -7,6 +7,7 @@ import pokemon from '../public/pokemon.jpg'
 import simulator from '../public/simulator.jpg'
 import pwa from '../public/pwa.jpg'
 import adopt from '../public/adopt-pet.jpg'
+import spring from '../public/spring-api.jpg'
 import Link from 'next/link'
 
 const SingleProject = ({ project }: any) => {
@@ -17,6 +18,7 @@ const SingleProject = ({ project }: any) => {
 		if (src === "simulator") return simulator
 		if (src === "pwa") return pwa
 		if (src === "adopt-pet") return adopt
+		if (src === "spring-api") return spring
 	}
 	return (
 		<li className="my-12">
