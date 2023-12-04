@@ -9,15 +9,7 @@ import WebsiteWrapper from '@/lib/WebsiteWrapper'
 export const metadata = {
 	metadataBase: new URL('https://www.hamza-labzioui.com'),
 	title: 'Hamza Labzioui - Développeur Fullstack',
-	description: 'Passionné par le développement web, j\'aime expérimenter, découvrir et apprendre des nouvelles technologies.',
-	openGraph: {
-		images: 'https://chaarizin-api-bucket.s3.eu-west-3.amazonaws.com/upload/chaarizin-api-bucket/__image1.jpg',
-	},
-	// viewport: {
-	// 	width: 'device-width',
-	// 	initialScale: 1,
-	// 	maximumScale: 1,
-	// },
+	description: 'Portfolio de Hamza Labzioui. Développeur Fullstack à Toulouse, France. Java, SprinBoot, Hibernate, React, Angular, TailwindCSS, CI/CD, AWS. Contact: hamza.labzioui@gmail.com.',
 }
 
 export default function RootLayout({
